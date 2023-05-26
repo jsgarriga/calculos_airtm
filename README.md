@@ -39,7 +39,7 @@ comision_fija_companero = 0.1
 tarifa_servicio = 0.02
 comision_variable_companero = 0.05
 
-resultado = calcular_fondos_por_recibir_agregar_p2p(fondos_a_enviar, tipo_cambio_mercado, tarifa_deposito_garantia, comision_fija_companero, tarifa_servicio, comision_variable_companero)
+resultado = calcs.calcular_fondos_por_recibir_agregar_p2p(fondos_a_enviar, tipo_cambio_mercado, tarifa_deposito_garantia, comision_fija_companero, tarifa_servicio, comision_variable_companero)
 
 print(resultado)
 ```

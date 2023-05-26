@@ -4,9 +4,9 @@ Este repositorio contiene una serie de scripts de Python que te permiten calcula
 
 ## Descripción
 
-Los scripts proporcionados en este repositorio te permiten calcular las tarifas de Airtm para diferentes escenarios y transacciones. Cada script corresponde a una función específica que implementa una fórmula basada en las definiciones y ecuaciones proporcionadas.
+Los scripts de este repositorio te permiten calcular las tarifas de Airtm para diferentes escenarios y transacciones. Cada script corresponde a una función específica que implementa una fórmula basada en las definiciones y ecuaciones del enlace anteriormente presentado.
 
-Aquí se encuentran los principales scripts disponibles:
+Los principales scripts son:
 
 - `calcular_fondos_por_recibir_agregar_p2p`: Calcula los fondos por recibir al agregar dinero P2P (mediante el envío de una solicitud).
 - `calcular_fondos_a_enviar_agregar_p2p`: Calcula los fondos a enviar al agregar dinero P2P.
@@ -27,7 +27,7 @@ Aquí se encuentran los principales scripts disponibles:
 
 ## Uso
 
-A continuación, se proporciona un ejemplo básico de cómo utilizar estos scripts en tu propio código Python:
+Ejemplo básico de cómo utilizar:
 
 ```python
 from modules import calcs

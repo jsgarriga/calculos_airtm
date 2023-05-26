@@ -1,3 +1,8 @@
+
+
+# TODO: Para mejorar el código y hacer uso de clases y métodos, crear una clase llamada CalculadoraP2P que contenga los métodos necesarios para realizar los cálculos. Luego, crear una instancia de la clase CalculadoraP2P con los parámetros correspondientes y llamar a los métodos para realizar los cálculos. Realizar la implementación de manera que encapsule la lógica del cálculo en una clase para facilitar su reutilización y mantenimiento. Elimina la necesidad de pasar los mismos parámetros repetidamente en cada función!!!
+
+
 def calcular_fondos_por_recibir_agregar_p2p(fondos_a_enviar, tipo_cambio_mercado, tarifa_deposito_garantia, comision_fija_companero, tarifa_servicio, comision_variable_companero):
     """
     Calcula los fondos por recibir al agregar fondos mediante P2P (envío de solicitud).
